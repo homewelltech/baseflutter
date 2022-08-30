@@ -25,7 +25,7 @@ class SplashController extends BaseGetController{
       if(splashTime<=0){
         timer.cancel();
 
-        Get.offNamed(Routes.myWebHomePage);
+        Get.offNamed(Routes.myNoteMainPage);
 
 
 
