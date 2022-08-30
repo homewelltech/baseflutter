@@ -1,12 +1,12 @@
 
 
-import 'package:baseflutter/pages/myweb/home/footer/page.dart';
+import 'package:baseflutter/apps/myweb/home/footer/page.dart';
 import 'package:baseflutter/router/data_binding.dart';
 import 'package:get/get_navigation/src/routes/get_route.dart';
 
-import '../pages/myweb/home/header/page.dart';
-import '../pages/myweb/home/page.dart';
-import '../pages/splash/page.dart';
+import '../apps/myweb/home/header/page.dart';
+import '../apps/myweb/home/page.dart';
+import '../apps/splash/page.dart';
 
 abstract class Routes {
 

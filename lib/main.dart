@@ -1,4 +1,4 @@
-import 'package:baseflutter/pages/splash/page.dart';
+import 'package:baseflutter/apps/splash/page.dart';
 import 'package:baseflutter/router/data_binding.dart';
 import 'package:baseflutter/router/routes.dart';
 import 'package:baseflutter/utils/db/db_util.dart';

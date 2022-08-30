@@ -1,11 +1,12 @@
 
 
-import 'package:baseflutter/pages/myweb/home/controller.dart';
-import 'package:baseflutter/pages/myweb/home/footer/controller.dart';
-import 'package:baseflutter/pages/myweb/home/header/controller.dart';
+import 'package:baseflutter/apps/myweb/home/controller.dart';
+import 'package:baseflutter/apps/myweb/home/footer/controller.dart';
+import 'package:baseflutter/apps/myweb/home/header/controller.dart';
 import 'package:get/get.dart';
 
-import '../pages/splash/controller.dart';
+import '../apps/splash/controller.dart';
+
 
 
 
